@@ -1,0 +1,22 @@
+.CssDAW{
+    background-color: lightgreen;
+    color: green;
+    border: green;
+    border: 5px solid black;
+    font-size: larger;
+    float: left;
+    position: relative;
+    left: 300px;
+    top: 300px;
+
+}
+.Imagen{
+    border: 2px solid green;
+    border-color: green;
+    padding-left: 9px ;
+    position: absolute;
+    float: left;
+
+
+
+}
